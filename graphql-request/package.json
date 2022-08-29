@@ -1,0 +1,12 @@
+{
+  "name": "graphql-request",
+  "version": "1.0.0",
+  "description": "galoy graphql-request example",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.0.0",
+    "graphql-subscriptions-client": "^0.16.4",
+    "ws": "^8.8.1"
+  }
+}
